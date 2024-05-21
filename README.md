@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Olá, me chamo Liliane, trabalho como analista e desenvolvora de software em Delphi! 👩‍💻💖 
 <!--
 **LilianeComicioli/LilianeComicioli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
